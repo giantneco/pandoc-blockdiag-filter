@@ -1,2 +1,2 @@
 # pandoc-blockdiag-filter
-Pandoc filter for the blockdiag families
+Pandoc filter for the blockdiag family
